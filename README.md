@@ -15,7 +15,7 @@ Desenvolvedor Frontend
 - 👨‍🏭 I’m currently working on my projects
 - 📚 I’m currently learning <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white">
 - 💬 Ask me about my hobbies
-- ✉️ Contact me: <a href="google.com"> Igor6Almeidahotmail.com</a> 
+- ✉️ Contact me: <a href="mailto:Igor6Almeidahotmail.com"> Igor6Almeidahotmail.com</a> 
 - 😄 Pronouns: Ele/Dele
 -->
 
