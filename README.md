@@ -12,18 +12,15 @@ Desenvolvedor Frontend
 <br>
 
 
-- 👨‍🏭 I’m currently working on my projects
-- 📚 I’m currently learning <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white">
-- 💬 Ask me about my hobbies
-- ✉️ Contact me: <a href="mailto:Igor6Almeidahotmail.com"> Igor6Almeidahotmail.com</a> 
+- 📚 Aprendendo <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white">
+- 💬 Portfólio: https://portfolio-xi-two-79.vercel.app/
+- ✉️ Entre em Contato: <a href="mailto:Igor6Almeidahotmail.com"> Igor6Almeidahotmail.com</a> 
 -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
 <hr>
