@@ -12,7 +12,7 @@ Desenvolvedor Frontend
 <br>
 
 
-- 📚 Aprendendo <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white">
+- 📚 Aprendendo <img align="center" alt="Static Badge" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 - 💬 Portfólio: https://portfolio-xi-two-79.vercel.app/
 - ✉️ Entre em Contato: <a href="mailto:Igor6Almeidahotmail.com"> Igor6Almeidahotmail.com</a> 
 -->
@@ -21,6 +21,7 @@ Desenvolvedor Frontend
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img aling='center' alt='React' heigth='30' width='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
 <hr>
